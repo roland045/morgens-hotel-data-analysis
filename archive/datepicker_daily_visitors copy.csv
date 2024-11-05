@@ -1,0 +1,997 @@
+,date,utm_campaign,utm_source,utm_medium,user_count,session_count,hotel_id
+0,2024-09-18,(organic),google,cpc,73,82,hotel_2
+1,2024-09-18,(direct),(direct),(none),48,52,hotel_2
+2,2024-09-18,(organic),google,organic,23,30,hotel_2
+3,2024-09-18,(not set),google,cpc,23,25,hotel_2
+4,2024-09-18,HU | GSN | PERF I Brand,google,cpc,17,22,hotel_2
+5,2024-09-18,HU | pMAX | PERF I Brand,google,cpc,18,18,hotel_2
+6,2024-09-18,HU | GSN | PERF I Lokáció,google,cpc,15,16,hotel_2
+7,2024-09-18,AT | pMAX Hotel | PERF I Brand,google,cpc,8,11,hotel_2
+8,2024-09-18,HU | GSN | PERF I Brand 2,google,cpc,8,9,hotel_2
+9,2024-09-18,campaign_18,facebook,cpc,9,9,hotel_2
+10,2024-09-18,campaign_17,facebook,cpc,9,9,hotel_2
+11,2024-09-18,(referral),redir.d-edgeconnect.media,referral,7,8,hotel_2
+12,2024-09-18,AT | GSN | PERF I Brand,google,cpc,5,5,hotel_2
+13,2024-09-18,campaign_3,hirlevel,ct,4,5,hotel_2
+14,2024-09-18,(not set),(not set),(not set),3,4,hotel_2
+15,2024-09-18,(referral),facebook,referral,4,4,hotel_2
+16,2024-09-18,DE | pMAX Hotel | PERF I Brand,google,cpc,4,4,hotel_2
+17,2024-09-18,(organic),duckduckgo,organic,3,3,hotel_2
+18,2024-09-18,(referral),google,cpc,1,2,hotel_2
+19,2024-09-18,AT | GSN | Brand 2024,bing,cpc,2,2,hotel_2
+20,2024-09-18,campaign_33,bing,cpc,1,2,hotel_2
+21,2024-09-18,campaign_19,facebook,cpc,2,2,hotel_2
+22,2024-09-18,campaign_2,ajanlat,offline,1,2,hotel_2
+23,2024-09-18,(organic),bing,organic,1,1,hotel_2
+24,2024-09-18,(referral),facebook,referral,1,1,hotel_2
+25,2024-09-18,HU | GDN | ENGM I Programok '24,google,cpc,1,1,hotel_2
+26,2024-09-18,campaign_27,google,cpc,1,1,hotel_2
+27,2024-09-18,HU | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+28,2024-09-18,campaign_21,google,cpc,1,1,hotel_2
+29,2024-09-18,campaign_23,google,cpc,1,1,hotel_2
+30,2024-09-18,hirlevel_c1,hirlevel_s1,newsletter,1,1,hotel_2
+31,2024-09-18,campaign_7,ajanlat,email,1,1,hotel_2
+32,2024-09-19,campaign_7,ajanlat,email,2,2,hotel_2
+33,2024-09-19,campaign_20,facebook,cpc,1,1,hotel_2
+34,2024-09-19,(organic),google,organic,39,43,hotel_2
+35,2024-09-19,(not set),google,cpc,15,15,hotel_2
+36,2024-09-19,HU | GSN | PERF I Brand,google,cpc,15,15,hotel_2
+37,2024-09-19,HU | pMAX | PERF I Brand,google,cpc,13,13,hotel_2
+38,2024-09-19,HU | GSN | PERF I Brand 2,google,cpc,9,12,hotel_2
+39,2024-09-19,HU | GSN | PERF I Lokáció,google,cpc,11,12,hotel_2
+40,2024-09-19,campaign_18,facebook,cpc,8,8,hotel_2
+41,2024-09-19,(organic),bing,organic,5,5,hotel_2
+42,2024-09-19,AT | GSN | PERF I Brand,google,cpc,4,5,hotel_2
+43,2024-09-19,AT | pMAX Hotel | PERF I Brand,google,cpc,4,5,hotel_2
+44,2024-09-19,campaign_17,facebook,cpc,4,4,hotel_2
+45,2024-09-19,campaign_21,google,cpc,3,3,hotel_2
+46,2024-09-19,(referral),facebook,referral,2,2,hotel_2
+47,2024-09-19,(referral),facebook,referral,2,2,hotel_2
+48,2024-09-19,AT | GSN | PERF | Lokáció,google,cpc,2,2,hotel_2
+49,2024-09-19,campaign_3,hirlevel,ct,2,2,hotel_2
+50,2024-09-19,(organic),google,cpc,55,60,hotel_2
+51,2024-09-19,(not set),(not set),(not set),0,1,hotel_2
+52,2024-09-19,(referral),cdn.respond.io,referral,1,1,hotel_2
+53,2024-09-19,(referral),redir.d-edgeconnect.media,referral,1,1,hotel_2
+54,2024-09-19,(referral),thermenhotels.at,referral,1,1,hotel_2
+55,2024-09-19,campaign_8,fb,paid,1,1,hotel_2
+56,2024-09-19,AT | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+57,2024-09-19,CZ | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+58,2024-09-19,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+59,2024-09-19,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+60,2024-09-19,campaign_13,hirlevel,ct,1,1,hotel_2
+61,2024-09-19,campaign_33,bing,cpc,1,1,hotel_2
+62,2024-09-19,HU | GDN | ENGM I Programok '24,google,cpc,1,1,hotel_2
+63,2024-09-19,campaign_27,google,cpc,1,1,hotel_2
+64,2024-09-19,HU | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+65,2024-09-19,campaign_19,facebook,cpc,1,1,hotel_2
+66,2024-09-19,(direct),(direct),(none),43,45,hotel_2
+67,2024-09-20,(organic),google,cpc,39,42,hotel_2
+68,2024-09-20,(direct),(direct),(none),23,24,hotel_2
+69,2024-09-20,(organic),google,organic,22,23,hotel_2
+70,2024-09-20,HU | GSN | PERF I Brand,google,cpc,15,16,hotel_2
+71,2024-09-20,campaign_18,facebook,cpc,15,15,hotel_2
+72,2024-09-20,(not set),google,cpc,10,10,hotel_2
+73,2024-09-20,HU | GSN | PERF I Brand 2,google,cpc,9,9,hotel_2
+74,2024-09-20,(referral),facebook,referral,6,6,hotel_2
+75,2024-09-20,HU | pMAX | PERF I Brand,google,cpc,6,6,hotel_2
+76,2024-09-20,AT | GSN | PERF I Brand,google,cpc,3,5,hotel_2
+77,2024-09-20,campaign_17,facebook,cpc,5,5,hotel_2
+78,2024-09-20,(organic),yahoo,organic,1,4,hotel_2
+79,2024-09-20,HU | GSN | Brand 2024,bing,cpc,4,4,hotel_2
+80,2024-09-20,(not set),(not set),(not set),2,3,hotel_2
+81,2024-09-20,HU | GSN | PERF I Lokáció,google,cpc,3,3,hotel_2
+82,2024-09-20,campaign_19,facebook,cpc,3,3,hotel_2
+83,2024-09-20,(not set),(direct),(none),2,2,hotel_2
+84,2024-09-20,(referral),facebook,referral,2,2,hotel_2
+85,2024-09-20,AT | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+86,2024-09-20,campaign_33,bing,cpc,2,2,hotel_2
+87,2024-09-20,(referral),cdn.respond.io,referral,1,1,hotel_2
+88,2024-09-20,(referral),redir.d-edgeconnect.media,referral,1,1,hotel_2
+89,2024-09-20,(referral),thermengutscheine.at,referral,1,1,hotel_2
+90,2024-09-20,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+91,2024-09-20,CZ | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+92,2024-09-20,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+93,2024-09-20,DE | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+94,2024-09-20,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+95,2024-09-20,campaign_13,hirlevel,ct,1,1,hotel_2
+96,2024-09-20,campaign_3,hirlevel,ct,1,1,hotel_2
+97,2024-09-20,campaign_23,google,cpc,1,1,hotel_2
+98,2024-09-20,loyalty-email,loyalty,email,1,1,hotel_2
+99,2024-09-20,campaign_2,ajanlat,offline,1,1,hotel_2
+100,2024-09-21,AT | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+101,2024-09-21,campaign_23,google,cpc,1,1,hotel_2
+102,2024-09-21,HU | GSN | PERF I Brand,google,cpc,18,20,hotel_2
+103,2024-09-21,(direct),(direct),(none),17,19,hotel_2
+104,2024-09-21,HU | GSN | PERF I Lokáció,google,cpc,13,13,hotel_2
+105,2024-09-21,(not set),google,cpc,12,12,hotel_2
+106,2024-09-21,HU | pMAX | PERF I Brand,google,cpc,11,11,hotel_2
+107,2024-09-21,campaign_17,facebook,cpc,10,11,hotel_2
+108,2024-09-21,campaign_18,facebook,cpc,9,9,hotel_2
+109,2024-09-21,(referral),facebook,referral,5,5,hotel_2
+110,2024-09-21,AT | GSN | PERF I Brand,google,cpc,4,5,hotel_2
+111,2024-09-21,(not set),(direct),(none),1,4,hotel_2
+112,2024-09-21,HU | GSN | PERF I Brand 2,google,cpc,3,4,hotel_2
+113,2024-09-21,(not set),(not set),(not set),1,2,hotel_2
+114,2024-09-21,(referral),facebook,referral,2,2,hotel_2
+115,2024-09-21,AT | GSN | Brand 2024,bing,cpc,2,2,hotel_2
+116,2024-09-21,(organic),google,cpc,45,50,hotel_2
+117,2024-09-21,CZ | pMAX | PERF I Brand,google,cpc,1,2,hotel_2
+118,2024-09-21,campaign_21,google,cpc,2,2,hotel_2
+119,2024-09-21,(organic),bing,organic,1,1,hotel_2
+120,2024-09-21,(organic),yahoo,organic,1,1,hotel_2
+121,2024-09-21,(referral),kapu.hu,referral,1,1,hotel_2
+122,2024-09-21,(referral),instagram,referral,1,1,hotel_2
+123,2024-09-21,(referral),facebook,referral,0,1,hotel_2
+124,2024-09-21,(referral),redir.d-edgeconnect.media,referral,1,1,hotel_2
+125,2024-09-21,(referral),wellcard.at,referral,1,1,hotel_2
+126,2024-09-21,DE | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+127,2024-09-21,campaign_3,hirlevel,ct,1,1,hotel_2
+128,2024-09-21,campaign_27,google,cpc,1,1,hotel_2
+129,2024-09-21,campaign_22,google,cpc,1,1,hotel_2
+130,2024-09-21,campaign_19,facebook,cpc,1,1,hotel_2
+131,2024-09-21,campaign_24,instagram,cpc,1,1,hotel_2
+132,2024-09-21,(organic),google,organic,23,27,hotel_2
+133,2024-09-22,(organic),google,cpc,69,74,hotel_2
+134,2024-09-22,(organic),google,organic,39,41,hotel_2
+135,2024-09-22,(direct),(direct),(none),34,35,hotel_2
+136,2024-09-22,(not set),google,cpc,29,32,hotel_2
+137,2024-09-22,campaign_18,facebook,cpc,30,32,hotel_2
+138,2024-09-22,HU | GSN | PERF I Brand,google,cpc,25,28,hotel_2
+139,2024-09-22,HU | GSN | PERF I Brand 2,google,cpc,13,15,hotel_2
+140,2024-09-22,HU | pMAX | PERF I Brand,google,cpc,12,12,hotel_2
+141,2024-09-22,(referral),facebook,referral,10,10,hotel_2
+142,2024-09-22,campaign_19,facebook,cpc,6,6,hotel_2
+143,2024-09-22,(not set),(not set),(not set),4,5,hotel_2
+144,2024-09-22,HU | GSN | PERF I Lokáció,google,cpc,5,5,hotel_2
+145,2024-09-22,(referral),facebook,referral,4,4,hotel_2
+146,2024-09-22,AT | pMAX Hotel | PERF I Brand,google,cpc,3,3,hotel_2
+147,2024-09-22,campaign_17,facebook,cpc,3,3,hotel_2
+148,2024-09-22,AT | GSN | PERF I Brand,google,cpc,2,2,hotel_2
+149,2024-09-22,DE | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+150,2024-09-22,campaign_24,instagram,cpc,1,2,hotel_2
+151,2024-09-22,(organic),bing,organic,1,1,hotel_2
+152,2024-09-22,(referral),connexservice.com,referral,1,1,hotel_2
+153,2024-09-22,(referral),familypark.at,referral,1,1,hotel_2
+154,2024-09-22,(referral),wellcard.at,referral,1,1,hotel_2
+155,2024-09-22,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+156,2024-09-22,campaign_3,hirlevel,ct,1,1,hotel_2
+157,2024-09-22,campaign_33,bing,cpc,1,1,hotel_2
+158,2024-09-22,campaign_21,google,cpc,1,1,hotel_2
+159,2024-09-23,(referral),facebook,referral,9,9,hotel_2
+160,2024-09-23,campaign_2,ajanlat,offline,1,1,hotel_2
+161,2024-09-23,(direct),(direct),(none),44,45,hotel_2
+162,2024-09-23,(organic),google,organic,35,36,hotel_2
+163,2024-09-23,HU | GSN | PERF I Brand,google,cpc,25,31,hotel_2
+164,2024-09-23,(not set),google,cpc,20,20,hotel_2
+165,2024-09-23,HU | GSN | PERF I Brand 2,google,cpc,16,19,hotel_2
+166,2024-09-23,HU | pMAX | PERF I Brand,google,cpc,10,10,hotel_2
+167,2024-09-23,(organic),google,cpc,66,71,hotel_2
+168,2024-09-23,(not set),(not set),(not set),5,7,hotel_2
+169,2024-09-23,AT | GSN | PERF I Brand,google,cpc,5,6,hotel_2
+170,2024-09-23,HU | GSN | PERF I Lokáció,google,cpc,6,6,hotel_2
+171,2024-09-23,campaign_17,facebook,cpc,5,5,hotel_2
+172,2024-09-23,AT | pMAX Hotel | PERF I Brand,google,cpc,4,4,hotel_2
+173,2024-09-23,HU | GDN | ENGM I Programok '24,google,cpc,4,4,hotel_2
+174,2024-09-23,(referral),facebook,referral,3,3,hotel_2
+175,2024-09-23,(referral),redir.d-edgeconnect.media,referral,2,3,hotel_2
+176,2024-09-23,campaign_33,bing,cpc,3,3,hotel_2
+177,2024-09-23,campaign_21,google,cpc,3,3,hotel_2
+178,2024-09-23,campaign_19,facebook,cpc,2,3,hotel_2
+179,2024-09-23,campaign_24,instagram,cpc,3,3,hotel_2
+180,2024-09-23,(referral),facebook,referral,2,2,hotel_2
+181,2024-09-23,(referral),wellcard.at,referral,2,2,hotel_2
+182,2024-09-23,DE | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+183,2024-09-23,campaign_27,google,cpc,2,2,hotel_2
+184,2024-09-23,HU | GSN | Brand 2024,bing,cpc,2,2,hotel_2
+185,2024-09-23,(organic),bing,organic,1,1,hotel_2
+186,2024-09-23,(organic),yahoo,organic,1,1,hotel_2
+187,2024-09-23,(referral),antispam.bubendorff.com,referral,1,1,hotel_2
+188,2024-09-23,(referral),familypark.at,referral,1,1,hotel_2
+189,2024-09-23,(referral),instagram,referral,1,1,hotel_2
+190,2024-09-23,(referral),kereso.startlap.hu,referral,1,1,hotel_2
+191,2024-09-23,(referral),instagram,referral,1,1,hotel_2
+192,2024-09-23,(referral),thermengutscheine.at,referral,1,1,hotel_2
+193,2024-09-23,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+194,2024-09-23,campaign_18,facebook,cpc,49,50,hotel_2
+195,2024-09-24,(organic),google,organic,37,38,hotel_2
+196,2024-09-24,proposal-by-phone,ajanlat,offline,1,1,hotel_2
+197,2024-09-24,(direct),(direct),(none),33,35,hotel_2
+198,2024-09-24,campaign_18,facebook,cpc,31,34,hotel_2
+199,2024-09-24,(not set),google,cpc,19,22,hotel_2
+200,2024-09-24,HU | GSN | PERF I Brand,google,cpc,19,22,hotel_2
+201,2024-09-24,HU | GSN | PERF I Brand 2,google,cpc,13,15,hotel_2
+202,2024-09-24,(referral),facebook,referral,10,10,hotel_2
+203,2024-09-24,(referral),facebook,referral,10,10,hotel_2
+204,2024-09-24,HU | pMAX | PERF I Brand,google,cpc,9,10,hotel_2
+205,2024-09-24,HU | GSN | Brand 2024,bing,cpc,6,6,hotel_2
+206,2024-09-24,HU | GSN | PERF I Lokáció,google,cpc,6,6,hotel_2
+207,2024-09-24,campaign_17,facebook,cpc,5,5,hotel_2
+208,2024-09-24,(not set),(not set),(not set),2,4,hotel_2
+209,2024-09-24,AT | GSN | PERF I Brand,google,cpc,3,4,hotel_2
+210,2024-09-24,(referral),facebook,referral,3,3,hotel_2
+211,2024-09-24,(referral),redir.d-edgeconnect.media,referral,3,3,hotel_2
+212,2024-09-24,(organic),bing,organic,2,2,hotel_2
+213,2024-09-24,AT | GSN | Brand 2024,bing,cpc,2,2,hotel_2
+214,2024-09-24,AT | GSN | PERF | Lokáció,google,cpc,2,2,hotel_2
+215,2024-09-24,DE | pMAX Hotel | PERF I Brand,google,cpc,1,2,hotel_2
+216,2024-09-24,campaign_19,facebook,cpc,2,2,hotel_2
+217,2024-09-24,hirlevel_c1,hirlevel_s1,newsletter,2,2,hotel_2
+218,2024-09-24,(organic),qwant.com,organic,1,1,hotel_2
+219,2024-09-24,(referral),click.pstmrk.it,referral,1,1,hotel_2
+220,2024-09-24,(referral),familypark.at,referral,1,1,hotel_2
+221,2024-09-24,(referral),kereso.startlap.hu,referral,1,1,hotel_2
+222,2024-09-24,(referral),privacywall.org,referral,1,1,hotel_2
+223,2024-09-24,campaign_8,fb,paid,1,1,hotel_2
+224,2024-09-24,AT | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+225,2024-09-24,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+226,2024-09-24,DE | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+227,2024-09-24,campaign_3,hirlevel,ct,1,1,hotel_2
+228,2024-09-24,campaign_33,bing,cpc,1,1,hotel_2
+229,2024-09-24,campaign_21,google,cpc,1,1,hotel_2
+230,2024-09-24,campaign_23,google,cpc,1,1,hotel_2
+231,2024-09-24,campaign_2,ajanlat,offline,1,1,hotel_2
+232,2024-09-24,(organic),google,cpc,67,71,hotel_2
+233,2024-09-25,campaign_17,facebook,cpc,5,5,hotel_2
+234,2024-09-25,campaign_23,google,cpc,1,1,hotel_2
+235,2024-09-25,(direct),(direct),(none),39,46,hotel_2
+236,2024-09-25,(organic),google,organic,26,27,hotel_2
+237,2024-09-25,(not set),google,cpc,22,25,hotel_2
+238,2024-09-25,HU | GSN | PERF I Brand,google,cpc,15,18,hotel_2
+239,2024-09-25,(referral),facebook,referral,13,13,hotel_2
+240,2024-09-25,HU | GSN | PERF I Brand 2,google,cpc,9,11,hotel_2
+241,2024-09-25,HU | pMAX | PERF I Brand,google,cpc,9,10,hotel_2
+242,2024-09-25,(referral),facebook,referral,7,7,hotel_2
+243,2024-09-25,AT | GSN | PERF I Brand,google,cpc,4,7,hotel_2
+244,2024-09-25,(organic),bing,organic,5,5,hotel_2
+245,2024-09-25,(organic),google,cpc,75,83,hotel_2
+246,2024-09-25,(referral),facebook,referral,3,4,hotel_2
+247,2024-09-25,DE | pMAX Hotel | PERF I Brand,google,cpc,3,3,hotel_2
+248,2024-09-25,HU | GSN | Brand 2024,bing,cpc,3,3,hotel_2
+249,2024-09-25,campaign_24,instagram,cpc,3,3,hotel_2
+250,2024-09-25,(not set),(not set),(not set),1,2,hotel_2
+251,2024-09-25,(referral),redir.d-edgeconnect.media,referral,2,2,hotel_2
+252,2024-09-25,campaign_13,hirlevel,ct,1,2,hotel_2
+253,2024-09-25,campaign_3,hirlevel,ct,2,2,hotel_2
+254,2024-09-25,campaign_19,facebook,cpc,2,2,hotel_2
+255,2024-09-25,campaign_2,ajanlat,offline,2,2,hotel_2
+256,2024-09-25,(not set),(direct),(none),1,1,hotel_2
+257,2024-09-25,(referral),source_10,referral,1,1,hotel_2
+258,2024-09-25,(referral),thermenhotels.at,referral,1,1,hotel_2
+259,2024-09-25,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+260,2024-09-25,AT | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+261,2024-09-25,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+262,2024-09-25,campaign_21,google,cpc,1,1,hotel_2
+263,2024-09-25,HU | GSN | PERF I Lokáció,google,cpc,1,1,hotel_2
+264,2024-09-25,campaign_18,facebook,cpc,45,49,hotel_2
+265,2024-09-26,campaign_21,google,cpc,1,1,hotel_2
+266,2024-09-26,(organic),google,cpc,66,68,hotel_2
+267,2024-09-26,(organic),google,organic,34,36,hotel_2
+268,2024-09-26,(direct),(direct),(none),27,27,hotel_2
+269,2024-09-26,HU | GSN | PERF I Brand,google,cpc,21,24,hotel_2
+270,2024-09-26,(not set),google,cpc,13,13,hotel_2
+271,2024-09-26,(referral),facebook,referral,12,12,hotel_2
+272,2024-09-26,HU | pMAX | PERF I Brand,google,cpc,9,9,hotel_2
+273,2024-09-26,HU | GSN | PERF I Brand 2,google,cpc,6,6,hotel_2
+274,2024-09-26,HU | GSN | PERF I Lokáció,google,cpc,3,5,hotel_2
+275,2024-09-26,(organic),bing,organic,4,4,hotel_2
+276,2024-09-26,AT | pMAX Hotel | PERF I Brand,google,cpc,4,4,hotel_2
+277,2024-09-26,campaign_33,bing,cpc,4,4,hotel_2
+278,2024-09-26,campaign_17,facebook,cpc,4,4,hotel_2
+279,2024-09-26,(not set),(not set),(not set),2,3,hotel_2
+280,2024-09-26,(referral),familypark.at,referral,2,2,hotel_2
+281,2024-09-26,(referral),instagram,referral,2,2,hotel_2
+282,2024-09-26,(referral),facebook,referral,2,2,hotel_2
+283,2024-09-26,(referral),facebook,referral,2,2,hotel_2
+284,2024-09-26,(referral),redir.d-edgeconnect.media,referral,2,2,hotel_2
+285,2024-09-26,AT | GSN | PERF | Lokáció,google,cpc,2,2,hotel_2
+286,2024-09-26,DE | GSN | PERF I Brand,google,cpc,1,2,hotel_2
+287,2024-09-26,campaign_24,instagram,cpc,1,2,hotel_2
+288,2024-09-26,campaign_26,google,cpc,1,2,hotel_2
+289,2024-09-26,campaign_2,ajanlat,offline,2,2,hotel_2
+290,2024-09-26,proposal-by-phone,ajanlat,offline,2,2,hotel_2
+291,2024-09-26,(referral),3ds.egcp.com,referral,1,1,hotel_2
+292,2024-09-26,(referral),wellcard.at,referral,1,1,hotel_2
+293,2024-09-26,(referral),zadir.hu,referral,1,1,hotel_2
+294,2024-09-26,campaign_3,hirlevel,ct,1,1,hotel_2
+295,2024-09-26,HU | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+296,2024-09-26,campaign_18,facebook,cpc,45,46,hotel_2
+297,2024-09-27,campaign_33,bing,cpc,2,3,hotel_2
+298,2024-09-27,campaign_19,facebook,cpc,1,1,hotel_2
+299,2024-09-27,(direct),(direct),(none),21,26,hotel_2
+300,2024-09-27,(organic),google,organic,24,26,hotel_2
+301,2024-09-27,HU | GSN | PERF I Brand 2,google,cpc,19,24,hotel_2
+302,2024-09-27,HU | GSN | PERF I Brand,google,cpc,17,20,hotel_2
+303,2024-09-27,HU | pMAX | PERF I Brand,google,cpc,15,15,hotel_2
+304,2024-09-27,(not set),google,cpc,11,11,hotel_2
+305,2024-09-27,(referral),facebook,referral,10,10,hotel_2
+306,2024-09-27,(referral),facebook,referral,6,6,hotel_2
+307,2024-09-27,AT | pMAX Hotel | PERF I Brand,google,cpc,4,6,hotel_2
+308,2024-09-27,(not set),(not set),(not set),3,5,hotel_2
+309,2024-09-27,campaign_17,facebook,cpc,5,5,hotel_2
+310,2024-09-27,(organic),bing,organic,3,3,hotel_2
+311,2024-09-27,(referral),familypark.at,referral,2,3,hotel_2
+312,2024-09-27,(organic),google,cpc,50,57,hotel_2
+313,2024-09-27,campaign_24,instagram,cpc,2,3,hotel_2
+314,2024-09-27,(referral),instagram,referral,1,2,hotel_2
+315,2024-09-27,(referral),redir.d-edgeconnect.media,referral,2,2,hotel_2
+316,2024-09-27,CZ | pMAX | PERF I Brand,google,cpc,1,2,hotel_2
+317,2024-09-27,DE | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+318,2024-09-27,HU | GSN | PERF I Lokáció,google,cpc,2,2,hotel_2
+319,2024-09-27,hirlevel_c1,hirlevel_s1,newsletter,2,2,hotel_2
+320,2024-09-27,(organic),duckduckgo,organic,1,1,hotel_2
+321,2024-09-27,(referral),google,cpc,1,1,hotel_2
+322,2024-09-27,(referral),facebook,referral,1,1,hotel_2
+323,2024-09-27,(referral),zadir.hu,referral,1,1,hotel_2
+324,2024-09-27,AT | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+325,2024-09-27,AT | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+326,2024-09-27,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+327,2024-09-27,CZ | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+328,2024-09-27,DE | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+329,2024-09-27,HU | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+330,2024-09-27,campaign_21,google,cpc,1,1,hotel_2
+331,2024-09-27,campaign_18,facebook,cpc,37,39,hotel_2
+332,2024-09-28,(organic),google,cpc,67,75,hotel_2
+333,2024-09-28,(direct),(direct),(none),32,36,hotel_2
+334,2024-09-28,(organic),google,organic,33,35,hotel_2
+335,2024-09-28,campaign_18,facebook,cpc,34,34,hotel_2
+336,2024-09-28,HU | GSN | PERF I Brand,google,cpc,21,22,hotel_2
+337,2024-09-28,HU | GSN | PERF I Brand 2,google,cpc,19,21,hotel_2
+338,2024-09-28,(not set),google,cpc,17,17,hotel_2
+339,2024-09-28,HU | pMAX | PERF I Brand,google,cpc,11,12,hotel_2
+340,2024-09-28,AT | pMAX Hotel | PERF I Brand,google,cpc,8,8,hotel_2
+341,2024-09-28,(referral),facebook,referral,7,7,hotel_2
+342,2024-09-28,HU | GSN | PERF I Lokáció,google,cpc,6,7,hotel_2
+343,2024-09-28,campaign_19,facebook,cpc,7,7,hotel_2
+344,2024-09-28,campaign_24,instagram,cpc,5,5,hotel_2
+345,2024-09-28,(referral),redir.d-edgeconnect.media,referral,4,4,hotel_2
+346,2024-09-28,AT | GSN | PERF I Brand,google,cpc,2,3,hotel_2
+347,2024-09-28,campaign_17,facebook,cpc,3,3,hotel_2
+348,2024-09-28,(organic),bing,organic,2,2,hotel_2
+349,2024-09-28,(referral),instagram,referral,2,2,hotel_2
+350,2024-09-28,(referral),facebook,referral,2,2,hotel_2
+351,2024-09-28,(not set),(not set),(not set),1,1,hotel_2
+352,2024-09-28,(organic),duckduckgo,organic,1,1,hotel_2
+353,2024-09-28,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+354,2024-09-28,DE | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+355,2024-09-28,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+356,2024-09-28,campaign_33,bing,cpc,1,1,hotel_2
+357,2024-09-28,campaign_20,facebook,cpc,1,1,hotel_2
+358,2024-09-28,hirlevel_c1,hirlevel_s1,newsletter,1,1,hotel_2
+359,2024-09-29,(organic),google,organic,33,34,hotel_2
+360,2024-09-29,hirlevel_c1,hirlevel_s1,newsletter,1,1,hotel_2
+361,2024-09-29,HU | GSN | PERF I Brand,google,cpc,33,35,hotel_2
+362,2024-09-29,(organic),google,cpc,61,64,hotel_2
+363,2024-09-29,campaign_18,facebook,cpc,29,30,hotel_2
+364,2024-09-29,(not set),google,cpc,17,18,hotel_2
+365,2024-09-29,HU | pMAX | PERF I Brand,google,cpc,17,18,hotel_2
+366,2024-09-29,HU | GSN | PERF I Brand 2,google,cpc,9,10,hotel_2
+367,2024-09-29,campaign_19,facebook,cpc,8,10,hotel_2
+368,2024-09-29,HU | GSN | PERF I Lokáció,google,cpc,7,9,hotel_2
+369,2024-09-29,(referral),facebook,referral,8,8,hotel_2
+370,2024-09-29,campaign_17,facebook,cpc,5,5,hotel_2
+371,2024-09-29,(referral),facebook,referral,4,4,hotel_2
+372,2024-09-29,(referral),wellcard.at,referral,2,4,hotel_2
+373,2024-09-29,AT | GSN | PERF I Brand,google,cpc,2,4,hotel_2
+374,2024-09-29,AT | pMAX Hotel | PERF I Brand,google,cpc,4,4,hotel_2
+375,2024-09-29,(organic),bing,organic,3,3,hotel_2
+376,2024-09-29,(referral),instagram,referral,3,3,hotel_2
+377,2024-09-29,campaign_24,instagram,cpc,3,3,hotel_2
+378,2024-09-29,(not set),(not set),(not set),1,2,hotel_2
+379,2024-09-29,(referral),familypark.at,referral,2,2,hotel_2
+380,2024-09-29,(referral),facebook,referral,2,2,hotel_2
+381,2024-09-29,campaign_3,hirlevel,ct,2,2,hotel_2
+382,2024-09-29,campaign_33,bing,cpc,2,2,hotel_2
+383,2024-09-29,campaign_21,google,cpc,2,2,hotel_2
+384,2024-09-29,(referral),redir.d-edgeconnect.media,referral,1,1,hotel_2
+385,2024-09-29,(referral),youtube.com,referral,1,1,hotel_2
+386,2024-09-29,AT | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+387,2024-09-29,DE | GSN | PERF I Lokáció,google,cpc,1,1,hotel_2
+388,2024-09-29,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+389,2024-09-29,campaign_23,google,cpc,1,1,hotel_2
+390,2024-09-29,(direct),(direct),(none),33,36,hotel_2
+391,2024-09-30,campaign_21,google,cpc,1,1,hotel_2
+392,2024-09-30,proposal-by-phone,email,offline,1,1,hotel_2
+393,2024-09-30,HU | GSN | PERF I Brand,google,cpc,27,31,hotel_2
+394,2024-09-30,(direct),(direct),(none),28,30,hotel_2
+395,2024-09-30,(not set),google,cpc,17,17,hotel_2
+396,2024-09-30,campaign_18,facebook,cpc,14,15,hotel_2
+397,2024-09-30,HU | GSN | PERF I Lokáció,google,cpc,9,10,hotel_2
+398,2024-09-30,(not set),(not set),(not set),4,7,hotel_2
+399,2024-09-30,HU | GSN | PERF I Brand 2,google,cpc,6,7,hotel_2
+400,2024-09-30,HU | pMAX | PERF I Brand,google,cpc,6,6,hotel_2
+401,2024-09-30,AT | pMAX Hotel | PERF I Brand,google,cpc,5,5,hotel_2
+402,2024-09-30,AT | GSN | PERF I Brand,google,cpc,4,4,hotel_2
+403,2024-09-30,(referral),redir.d-edgeconnect.media,referral,2,3,hotel_2
+404,2024-09-30,(organic),bing,organic,2,2,hotel_2
+405,2024-09-30,(referral),familypark.at,referral,2,2,hotel_2
+406,2024-09-30,(referral),google,cpc,1,2,hotel_2
+407,2024-09-30,(referral),facebook,referral,2,2,hotel_2
+408,2024-09-30,(referral),facebook,referral,2,2,hotel_2
+409,2024-09-30,(referral),wellcard.at,referral,1,2,hotel_2
+410,2024-09-30,campaign_33,bing,cpc,2,2,hotel_2
+411,2024-09-30,HU | GSN | Brand 2024,bing,cpc,2,2,hotel_2
+412,2024-09-30,campaign_19,facebook,cpc,2,2,hotel_2
+413,2024-09-30,campaign_17,facebook,cpc,2,2,hotel_2
+414,2024-09-30,proposal-by-phone,phone,offline,2,2,hotel_2
+415,2024-09-30,(referral),connexservice.com,referral,1,1,hotel_2
+416,2024-09-30,(referral),glamour.hu,referral,1,1,hotel_2
+417,2024-09-30,(referral),kereso.startlap.hu,referral,1,1,hotel_2
+418,2024-09-30,(referral),google,referral,1,1,hotel_2
+419,2024-09-30,(referral),padlet.com,referral,0,1,hotel_2
+420,2024-09-30,(referral),thermengutscheine.at,referral,1,1,hotel_2
+421,2024-09-30,(referral),zadir.hu,referral,1,1,hotel_2
+422,2024-09-30,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+423,2024-09-30,CZ | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+424,2024-09-30,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+425,2024-09-30,(organic),google,cpc,59,61,hotel_2
+426,2024-09-30,hirlevel_c1,hirlevel_s1,newsletter,0,1,hotel_2
+427,2024-09-30,campaign_7,ajanlat,email,1,1,hotel_2
+428,2024-09-30,campaign_2,ajanlat,offline,1,1,hotel_2
+429,2024-09-30,(organic),google,organic,26,33,hotel_2
+430,2024-10-01,campaign_17,facebook,cpc,5,5,hotel_2
+431,2024-10-01,loyalty-email,loyalty,email,1,1,hotel_2
+432,2024-10-01,(direct),(direct),(none),27,30,hotel_2
+433,2024-10-01,(not set),google,cpc,19,20,hotel_2
+434,2024-10-01,HU | GSN | PERF I Brand 2,google,cpc,18,20,hotel_2
+435,2024-10-01,HU | pMAX | PERF I Brand,google,cpc,16,16,hotel_2
+436,2024-10-01,HU | GSN | PERF I Brand,google,cpc,12,14,hotel_2
+437,2024-10-01,(not set),(not set),(not set),7,12,hotel_2
+438,2024-10-01,HU | GSN | PERF I Lokáció,google,cpc,7,7,hotel_2
+439,2024-10-01,AT | GSN | PERF I Brand,google,cpc,4,5,hotel_2
+440,2024-10-01,AT | pMAX Hotel | PERF I Brand,google,cpc,5,5,hotel_2
+441,2024-10-01,(organic),google,cpc,66,71,hotel_2
+442,2024-10-01,(referral),facebook,referral,3,4,hotel_2
+443,2024-10-01,campaign_2,ajanlat,offline,2,4,hotel_2
+444,2024-10-01,AT | GSN | PERF | Lokáció,google,cpc,3,3,hotel_2
+445,2024-10-01,campaign_10,bing,cpc,3,3,hotel_2
+446,2024-10-01,campaign_21,google,cpc,3,3,hotel_2
+447,2024-10-01,(referral),facebook,referral,2,2,hotel_2
+448,2024-10-01,(referral),google,referral,1,2,hotel_2
+449,2024-10-01,(referral),redir.d-edgeconnect.media,referral,2,2,hotel_2
+450,2024-10-01,(referral),wellcard.at,referral,2,2,hotel_2
+451,2024-10-01,campaign_33,bing,cpc,2,2,hotel_2
+452,2024-10-01,campaign_19,facebook,cpc,2,2,hotel_2
+453,2024-10-01,(organic),bing,organic,1,1,hotel_2
+454,2024-10-01,(organic),duckduckgo,organic,1,1,hotel_2
+455,2024-10-01,(referral),app.optimonk.com,referral,1,1,hotel_2
+456,2024-10-01,(referral),familypark.at,referral,1,1,hotel_2
+457,2024-10-01,(referral),kereso.startlap.hu,referral,1,1,hotel_2
+458,2024-10-01,(referral),thermengutscheine.at,referral,1,1,hotel_2
+459,2024-10-01,campaign_3,hirlevel,ct,1,1,hotel_2
+460,2024-10-01,campaign_18,facebook,cpc,0,1,hotel_2
+461,2024-10-01,campaign_24,instagram,cpc,1,1,hotel_2
+462,2024-10-01,(organic),google,organic,38,41,hotel_2
+463,2024-10-02,(organic),google,cpc,70,78,hotel_2
+464,2024-10-02,(direct),(direct),(none),35,41,hotel_2
+465,2024-10-02,(organic),google,organic,37,38,hotel_2
+466,2024-10-02,HU | GSN | PERF I Brand,google,cpc,18,20,hotel_2
+467,2024-10-02,HU | GSN | PERF I Brand 2,google,cpc,14,18,hotel_2
+468,2024-10-02,HU | pMAX | PERF I Brand,google,cpc,13,16,hotel_2
+469,2024-10-02,(not set),google,cpc,9,9,hotel_2
+470,2024-10-02,HU | GSN | PERF I Lokáció,google,cpc,8,9,hotel_2
+471,2024-10-02,campaign_19,facebook,cpc,9,9,hotel_2
+472,2024-10-02,campaign_17,facebook,cpc,8,8,hotel_2
+473,2024-10-02,AT | pMAX Hotel | PERF I Brand,google,cpc,3,5,hotel_2
+474,2024-10-02,(not set),(not set),(not set),3,4,hotel_2
+475,2024-10-02,(referral),facebook,referral,3,3,hotel_2
+476,2024-10-02,(referral),redir.d-edgeconnect.media,referral,3,3,hotel_2
+477,2024-10-02,campaign_21,google,cpc,3,3,hotel_2
+478,2024-10-02,HU | PERF | Brand,bing,cpc,3,3,hotel_2
+479,2024-10-02,(referral),facebook,referral,2,2,hotel_2
+480,2024-10-02,AT | GSN | PERF I Brand,google,cpc,2,2,hotel_2
+481,2024-10-02,(referral),source_18,referral,1,1,hotel_2
+482,2024-10-02,(referral),google,referral,1,1,hotel_2
+483,2024-10-02,(referral),thermengutscheine.at,referral,1,1,hotel_2
+484,2024-10-02,(referral),source_1,referral,1,1,hotel_2
+485,2024-10-02,(referral),wellcard.at,referral,1,1,hotel_2
+486,2024-10-02,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+487,2024-10-02,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+488,2024-10-02,campaign_10,bing,cpc,1,1,hotel_2
+489,2024-10-02,campaign_18,facebook,cpc,0,1,hotel_2
+490,2024-10-02,campaign_23,google,cpc,1,1,hotel_2
+491,2024-10-03,AT | pMAX Hotel | PERF I Brand,google,cpc,8,8,hotel_2
+492,2024-10-03,(direct),(direct),(none),33,35,hotel_2
+493,2024-10-03,(organic),google,organic,31,34,hotel_2
+494,2024-10-03,HU | GSN | PERF I Brand,google,cpc,30,32,hotel_2
+495,2024-10-03,(not set),google,cpc,21,22,hotel_2
+496,2024-10-03,HU | pMAX | PERF I Brand,google,cpc,16,20,hotel_2
+497,2024-10-03,HU | GSN | PERF I Brand 2,google,cpc,8,12,hotel_2
+498,2024-10-03,HU | GSN | PERF I Lokáció,google,cpc,10,11,hotel_2
+499,2024-10-03,(organic),google,cpc,64,70,hotel_2
+500,2024-10-03,campaign_17,facebook,cpc,5,5,hotel_2
+501,2024-10-03,(referral),facebook,referral,3,4,hotel_2
+502,2024-10-03,(not set),(not set),(not set),3,3,hotel_2
+503,2024-10-03,(referral),redir.d-edgeconnect.media,referral,3,3,hotel_2
+504,2024-10-03,AT | GSN | PERF I Brand,google,cpc,3,3,hotel_2
+505,2024-10-03,campaign_19,facebook,cpc,3,3,hotel_2
+506,2024-10-03,(referral),familypark.at,referral,2,2,hotel_2
+507,2024-10-03,(referral),facebook,referral,2,2,hotel_2
+508,2024-10-03,DE | GSN | PERF I Brand,google,cpc,2,2,hotel_2
+509,2024-10-03,(organic),bing,organic,1,1,hotel_2
+510,2024-10-03,(referral),facebook,referral,1,1,hotel_2
+511,2024-10-03,(referral),source_1,referral,1,1,hotel_2
+512,2024-10-03,(referral),wellcard.at,referral,1,1,hotel_2
+513,2024-10-03,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+514,2024-10-03,AT | PERF | Brand,bing,cpc,1,1,hotel_2
+515,2024-10-03,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+516,2024-10-03,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+517,2024-10-03,HU | PERF | Brand,bing,cpc,1,1,hotel_2
+518,2024-10-03,campaign_18,facebook,cpc,1,1,hotel_2
+519,2024-10-03,campaign_23,google,cpc,1,1,hotel_2
+520,2024-10-04,(organic),google,cpc,63,72,hotel_2
+521,2024-10-04,(direct),(direct),(none),36,36,hotel_2
+522,2024-10-04,(organic),google,organic,35,36,hotel_2
+523,2024-10-04,HU | GSN | PERF I Brand,google,cpc,20,22,hotel_2
+524,2024-10-04,(not set),google,cpc,15,16,hotel_2
+525,2024-10-04,HU | pMAX | PERF I Brand,google,cpc,15,15,hotel_2
+526,2024-10-04,HU | GSN | PERF I Brand 2,google,cpc,10,11,hotel_2
+527,2024-10-04,(referral),redir.d-edgeconnect.media,referral,5,5,hotel_2
+528,2024-10-04,AT | pMAX Hotel | PERF I Brand,google,cpc,4,4,hotel_2
+529,2024-10-04,HU | GSN | PERF I Lokáció,google,cpc,3,4,hotel_2
+530,2024-10-04,campaign_17,facebook,cpc,4,4,hotel_2
+531,2024-10-04,CZ | pMAX | PERF I Brand,google,cpc,3,3,hotel_2
+532,2024-10-04,campaign_21,google,cpc,3,3,hotel_2
+533,2024-10-04,campaign_19,facebook,cpc,3,3,hotel_2
+534,2024-10-04,(not set),(not set),(not set),1,2,hotel_2
+535,2024-10-04,(referral),google,cpc,0,2,hotel_2
+536,2024-10-04,AT | GSN | PERF I Brand,google,cpc,2,2,hotel_2
+537,2024-10-04,AT | GSN | PERF | Lokáció,google,cpc,2,2,hotel_2
+538,2024-10-04,(organic),bing,organic,1,1,hotel_2
+539,2024-10-04,(referral),facebook,referral,1,1,hotel_2
+540,2024-10-04,(referral),facebook,referral,1,1,hotel_2
+541,2024-10-04,(referral),thermengutscheine.at,referral,1,1,hotel_2
+542,2024-10-04,campaign_3,hirlevel,ct,1,1,hotel_2
+543,2024-10-04,campaign_10,bing,cpc,1,1,hotel_2
+544,2024-10-04,HU | PERF | Brand,bing,cpc,1,1,hotel_2
+545,2024-10-04,campaign_23,google,cpc,1,1,hotel_2
+546,2024-10-04,hirlevel_c1,hirlevel_s1,newsletter,1,1,hotel_2
+547,2024-10-05,(organic),google,cpc,72,80,hotel_2
+548,2024-10-05,(direct),(direct),(none),33,39,hotel_2
+549,2024-10-05,(organic),google,organic,34,39,hotel_2
+550,2024-10-05,HU | GSN | PERF I Brand,google,cpc,26,27,hotel_2
+551,2024-10-05,(not set),google,cpc,18,18,hotel_2
+552,2024-10-05,HU | pMAX | PERF I Brand,google,cpc,12,13,hotel_2
+553,2024-10-05,HU | GSN | PERF I Lokáció,google,cpc,11,11,hotel_2
+554,2024-10-05,HU | GSN | PERF I Brand 2,google,cpc,7,10,hotel_2
+555,2024-10-05,campaign_17,facebook,cpc,6,7,hotel_2
+556,2024-10-05,(referral),facebook,referral,3,3,hotel_2
+557,2024-10-05,AT | GSN | PERF I Brand,google,cpc,3,3,hotel_2
+558,2024-10-05,AT | pMAX Hotel | PERF I Brand,google,cpc,3,3,hotel_2
+559,2024-10-05,(not set),(not set),(not set),0,1,hotel_2
+560,2024-10-05,(organic),bing,organic,1,1,hotel_2
+561,2024-10-05,(referral),kapu.hu,referral,1,1,hotel_2
+562,2024-10-05,(referral),l.messenger.com,referral,1,1,hotel_2
+563,2024-10-05,(referral),facebook,referral,1,1,hotel_2
+564,2024-10-05,(referral),redir.d-edgeconnect.media,referral,1,1,hotel_2
+565,2024-10-05,(referral),source_12,referral,1,1,hotel_2
+566,2024-10-05,(referral),wellcard.at,referral,1,1,hotel_2
+567,2024-10-05,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+568,2024-10-05,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+569,2024-10-05,campaign_3,hirlevel,ct,1,1,hotel_2
+570,2024-10-05,campaign_21,google,cpc,1,1,hotel_2
+571,2024-10-05,HU | PERF | Brand,bing,cpc,1,1,hotel_2
+572,2024-10-05,campaign_18,facebook,cpc,0,1,hotel_2
+573,2024-10-05,campaign_19,facebook,cpc,1,1,hotel_2
+574,2024-10-06,(organic),google,cpc,98,110,hotel_2
+575,2024-10-06,(organic),google,organic,41,44,hotel_2
+576,2024-10-06,HU | GSN | PERF I Brand,google,cpc,33,39,hotel_2
+577,2024-10-06,(direct),(direct),(none),32,34,hotel_2
+578,2024-10-06,(not set),google,cpc,23,27,hotel_2
+579,2024-10-06,HU | GSN | PERF I Brand 2,google,cpc,16,18,hotel_2
+580,2024-10-06,HU | pMAX | PERF I Brand,google,cpc,15,17,hotel_2
+581,2024-10-06,HU | GSN | PERF I Lokáció,google,cpc,12,12,hotel_2
+582,2024-10-06,campaign_17,facebook,cpc,7,7,hotel_2
+583,2024-10-06,(not set),(not set),(not set),5,6,hotel_2
+584,2024-10-06,(referral),facebook,referral,4,4,hotel_2
+585,2024-10-06,AT | GSN | PERF | Lokáció,google,cpc,4,4,hotel_2
+586,2024-10-06,campaign_19,facebook,cpc,3,4,hotel_2
+587,2024-10-06,campaign_21,google,cpc,3,3,hotel_2
+588,2024-10-06,HU | PERF | Brand,bing,cpc,3,3,hotel_2
+589,2024-10-06,(organic),bing,organic,2,2,hotel_2
+590,2024-10-06,(referral),google,cpc,2,2,hotel_2
+591,2024-10-06,(referral),redir.d-edgeconnect.media,referral,2,2,hotel_2
+592,2024-10-06,DE | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+593,2024-10-06,campaign_10,bing,cpc,2,2,hotel_2
+594,2024-10-06,(referral),familypark.at,referral,1,1,hotel_2
+595,2024-10-06,(referral),instagram,referral,1,1,hotel_2
+596,2024-10-06,(referral),wellcard.at,referral,1,1,hotel_2
+597,2024-10-06,AT | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+598,2024-10-06,AT | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+599,2024-10-06,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+600,2024-10-06,campaign_24,instagram,cpc,1,1,hotel_2
+601,2024-10-06,campaign_23,google,cpc,1,1,hotel_2
+602,2024-10-07,campaign_19,facebook,cpc,6,6,hotel_2
+603,2024-10-07,(organic),google,organic,55,59,hotel_2
+604,2024-10-07,HU | GSN | PERF I Brand,google,cpc,35,42,hotel_2
+605,2024-10-07,(direct),(direct),(none),36,39,hotel_2
+606,2024-10-07,HU | pMAX | PERF I Brand,google,cpc,21,25,hotel_2
+607,2024-10-07,HU | GSN | PERF I Brand 2,google,cpc,14,17,hotel_2
+608,2024-10-07,(not set),google,cpc,15,16,hotel_2
+609,2024-10-07,campaign_17,facebook,cpc,10,10,hotel_2
+610,2024-10-07,(referral),redir.d-edgeconnect.media,referral,5,9,hotel_2
+611,2024-10-07,(organic),google,cpc,95,106,hotel_2
+612,2024-10-07,(organic),bing,organic,4,5,hotel_2
+613,2024-10-07,AT | pMAX Hotel | PERF I Brand,google,cpc,5,5,hotel_2
+614,2024-10-07,AT | GSN | PERF I Brand,google,cpc,4,4,hotel_2
+615,2024-10-07,HU | PERF | Brand,bing,cpc,4,4,hotel_2
+616,2024-10-07,(not set),(not set),(not set),1,3,hotel_2
+617,2024-10-07,campaign_10,bing,cpc,3,3,hotel_2
+618,2024-10-07,(referral),facebook,referral,2,2,hotel_2
+619,2024-10-07,(referral),wellcard.at,referral,2,2,hotel_2
+620,2024-10-07,DE | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+621,2024-10-07,HU | GSN | PERF I Lokáció,google,cpc,2,2,hotel_2
+622,2024-10-07,proposal-by-phone,phone,offline,1,2,hotel_2
+623,2024-10-07,(not set),google,cpc,1,1,hotel_2
+624,2024-10-07,(referral),familypark.at,referral,1,1,hotel_2
+625,2024-10-07,(referral),glamour.hu,referral,1,1,hotel_2
+626,2024-10-07,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+627,2024-10-07,CZ | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+628,2024-10-07,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+629,2024-10-07,campaign_3,hirlevel,ct,1,1,hotel_2
+630,2024-10-07,HU | GSN | Brand 2024,bing,cpc,1,1,hotel_2
+631,2024-10-07,HU | pMAX | Csomag,google,cpc,1,1,hotel_2
+632,2024-10-07,campaign_18,facebook,cpc,1,1,hotel_2
+633,2024-10-07,campaign_2,ajanlat,offline,1,1,hotel_2
+634,2024-10-08,(organic),google,cpc,89,104,hotel_2
+635,2024-10-08,HU | GSN | PERF I Brand,google,cpc,41,47,hotel_2
+636,2024-10-08,(direct),(direct),(none),35,38,hotel_2
+637,2024-10-08,(organic),google,organic,31,37,hotel_2
+638,2024-10-08,HU | GSN | PERF I Brand 2,google,cpc,18,22,hotel_2
+639,2024-10-08,(not set),google,cpc,19,19,hotel_2
+640,2024-10-08,HU | pMAX | PERF I Brand,google,cpc,15,19,hotel_2
+641,2024-10-08,AT | pMAX Hotel | PERF I Brand,google,cpc,8,9,hotel_2
+642,2024-10-08,campaign_17,facebook,cpc,7,7,hotel_2
+643,2024-10-08,HU | GSN | PERF I Lokáció,google,cpc,6,6,hotel_2
+644,2024-10-08,(referral),facebook,referral,4,5,hotel_2
+645,2024-10-08,AT | GSN | PERF I Brand,google,cpc,4,5,hotel_2
+646,2024-10-08,(organic),bing,organic,4,4,hotel_2
+647,2024-10-08,(referral),redir.d-edgeconnect.media,referral,4,4,hotel_2
+648,2024-10-08,AT | PERF | Brand,bing,cpc,3,4,hotel_2
+649,2024-10-08,campaign_10,bing,cpc,3,4,hotel_2
+650,2024-10-08,HU | PERF | Brand,bing,cpc,4,4,hotel_2
+651,2024-10-08,(not set),(not set),(not set),3,3,hotel_2
+652,2024-10-08,CZ | GSN | PERF I Brand,google,cpc,2,3,hotel_2
+653,2024-10-08,campaign_21,google,cpc,3,3,hotel_2
+654,2024-10-08,campaign_19,facebook,cpc,3,3,hotel_2
+655,2024-10-08,campaign_23,google,cpc,2,3,hotel_2
+656,2024-10-08,(referral),familypark.at,referral,2,2,hotel_2
+657,2024-10-08,(referral),wellcard.at,referral,2,2,hotel_2
+658,2024-10-08,campaign_2,ajanlat,offline,1,2,hotel_2
+659,2024-10-08,(referral),economica.net,referral,1,1,hotel_2
+660,2024-10-08,(referral),facebook,referral,1,1,hotel_2
+661,2024-10-08,(referral),instagram,referral,1,1,hotel_2
+662,2024-10-08,(referral),zadir.hu,referral,1,1,hotel_2
+663,2024-10-08,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+664,2024-10-08,campaign_18,facebook,cpc,1,1,hotel_2
+665,2024-10-08,campaign_20,facebook,cpc,1,1,hotel_2
+666,2024-10-09,(organic),google,cpc,105,119,hotel_2
+667,2024-10-09,HU | GSN | PERF I Brand,google,cpc,46,60,hotel_2
+668,2024-10-09,(organic),google,organic,41,43,hotel_2
+669,2024-10-09,(direct),(direct),(none),33,35,hotel_2
+670,2024-10-09,HU | GSN | PERF I Brand 2,google,cpc,19,21,hotel_2
+671,2024-10-09,HU | pMAX | PERF I Brand,google,cpc,17,19,hotel_2
+672,2024-10-09,(not set),google,cpc,11,13,hotel_2
+673,2024-10-09,campaign_17,facebook,cpc,9,12,hotel_2
+674,2024-10-09,AT | pMAX Hotel | PERF I Brand,google,cpc,6,7,hotel_2
+675,2024-10-09,(not set),(not set),(not set),3,6,hotel_2
+676,2024-10-09,(organic),bing,organic,5,6,hotel_2
+677,2024-10-09,campaign_19,facebook,cpc,5,5,hotel_2
+678,2024-10-09,(referral),facebook,referral,4,4,hotel_2
+679,2024-10-09,(referral),redir.d-edgeconnect.media,referral,4,4,hotel_2
+680,2024-10-09,(referral),familypark.at,referral,1,2,hotel_2
+681,2024-10-09,(referral),instagram,referral,2,2,hotel_2
+682,2024-10-09,DE | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+683,2024-10-09,campaign_33,bing,cpc,2,2,hotel_2
+684,2024-10-09,hirlevel_c2,hirlevel,ct,2,2,hotel_2
+685,2024-10-09,(referral),facebook,referral,1,1,hotel_2
+686,2024-10-09,AT | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+687,2024-10-09,AT | PERF | Brand,bing,cpc,1,1,hotel_2
+688,2024-10-09,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+689,2024-10-09,HU | PERF | Brand,bing,cpc,1,1,hotel_2
+690,2024-10-09,campaign_23,google,cpc,1,1,hotel_2
+691,2024-10-09,campaign_2,ajanlat,offline,0,1,hotel_2
+692,2024-10-09,proposal-by-phone,phone,offline,1,1,hotel_2
+693,2024-10-10,(organic),google,cpc,159,185,hotel_2
+694,2024-10-10,(direct),(direct),(none),77,93,hotel_2
+695,2024-10-10,HU | GSN | PERF I Brand,google,cpc,76,88,hotel_2
+696,2024-10-10,(organic),google,organic,64,68,hotel_2
+697,2024-10-10,hirlevel_c3,hirlevel,ct,56,57,hotel_2
+698,2024-10-10,HU | pMAX | PERF I Brand,google,cpc,28,35,hotel_2
+699,2024-10-10,(not set),google,cpc,25,25,hotel_2
+700,2024-10-10,HU | GSN | PERF I Brand 2,google,cpc,19,23,hotel_2
+701,2024-10-10,(organic),bing,organic,7,10,hotel_2
+702,2024-10-10,HU | PERF | Brand,bing,cpc,5,8,hotel_2
+703,2024-10-10,campaign_19,facebook,cpc,8,8,hotel_2
+704,2024-10-10,(not set),(not set),(not set),5,7,hotel_2
+705,2024-10-10,campaign_17,facebook,cpc,7,7,hotel_2
+706,2024-10-10,(referral),facebook,referral,5,6,hotel_2
+707,2024-10-10,AT | GSN | PERF I Brand,google,cpc,4,5,hotel_2
+708,2024-10-10,AT | pMAX Hotel | PERF I Brand,google,cpc,5,5,hotel_2
+709,2024-10-10,(referral),facebook,referral,4,4,hotel_2
+710,2024-10-10,(referral),redir.d-edgeconnect.media,referral,4,4,hotel_2
+711,2024-10-10,campaign_23,google,cpc,2,4,hotel_2
+712,2024-10-10,campaign_18,facebook,cpc,3,3,hotel_2
+713,2024-10-10,hirlevel_c1,hirlevel_s1,newsletter,3,3,hotel_2
+714,2024-10-10,(referral),kapu.hu,referral,2,2,hotel_2
+715,2024-10-10,AT | GSN | PERF | Lokáció,google,cpc,2,2,hotel_2
+716,2024-10-10,HU | GSN | PERF I Lokáció,google,cpc,2,2,hotel_2
+717,2024-10-10,feliratkozas_en,(not set),ct,2,2,hotel_2
+718,2024-10-10,(organic),duckduckgo,organic,1,1,hotel_2
+719,2024-10-10,(referral),app.asana.com,referral,1,1,hotel_2
+720,2024-10-10,(referral),source_14,referral,1,1,hotel_2
+721,2024-10-10,(referral),familypark.at,referral,1,1,hotel_2
+722,2024-10-10,(referral),glamour.hu,referral,1,1,hotel_2
+723,2024-10-10,(referral),facebook,referral,1,1,hotel_2
+724,2024-10-10,(referral),google,referral,1,1,hotel_2
+725,2024-10-10,(referral),wellcard.at,referral,1,1,hotel_2
+726,2024-10-10,campaign_3,hirlevel,ct,1,1,hotel_2
+727,2024-10-10,campaign_21,google,cpc,1,1,hotel_2
+728,2024-10-10,campaign_24,instagram,cpc,1,1,hotel_2
+729,2024-10-10,feliratkozas_en,hirlevel,ct,1,1,hotel_2
+730,2024-10-11,(referral),facebook,referral,4,5,hotel_2
+731,2024-10-11,campaign_2,ajanlat,offline,1,1,hotel_2
+732,2024-10-11,(direct),(direct),(none),53,56,hotel_2
+733,2024-10-11,HU | GSN | PERF I Brand,google,cpc,42,44,hotel_2
+734,2024-10-11,HU | pMAX | PERF I Brand,google,cpc,23,26,hotel_2
+735,2024-10-11,hirlevel_c3,hirlevel,ct,24,26,hotel_2
+736,2024-10-11,(not set),google,cpc,20,22,hotel_2
+737,2024-10-11,(not set),(not set),(not set),10,11,hotel_2
+738,2024-10-11,HU | GSN | PERF I Brand 2,google,cpc,7,10,hotel_2
+739,2024-10-11,(organic),bing,organic,7,9,hotel_2
+740,2024-10-11,campaign_17,facebook,cpc,8,8,hotel_2
+741,2024-10-11,HU | GSN | PERF I Lokáció,google,cpc,7,7,hotel_2
+742,2024-10-11,campaign_19,facebook,cpc,7,7,hotel_2
+743,2024-10-11,(referral),redir.d-edgeconnect.media,referral,6,6,hotel_2
+744,2024-10-11,HU | PERF | Brand,bing,cpc,5,6,hotel_2
+745,2024-10-11,(organic),google,cpc,131,143,hotel_2
+746,2024-10-11,(referral),facebook,referral,4,5,hotel_2
+747,2024-10-11,AT | pMAX Hotel | PERF I Brand,google,cpc,4,5,hotel_2
+748,2024-10-11,DE | pMAX Hotel | PERF I Brand,google,cpc,4,5,hotel_2
+749,2024-10-11,campaign_18,facebook,cpc,4,4,hotel_2
+750,2024-10-11,(referral),mail.yahoo.com,referral,2,3,hotel_2
+751,2024-10-11,AT | GSN | PERF | Lokáció,google,cpc,3,3,hotel_2
+752,2024-10-11,campaign_24,instagram,cpc,3,3,hotel_2
+753,2024-10-11,(referral),facebook,referral,2,2,hotel_2
+754,2024-10-11,AT | GSN | PERF I Brand,google,cpc,2,2,hotel_2
+755,2024-10-11,campaign_23,google,cpc,2,2,hotel_2
+756,2024-10-11,hirlevel_c1,hirlevel_s1,newsletter,2,2,hotel_2
+757,2024-10-11,(referral),familypark.at,referral,1,1,hotel_2
+758,2024-10-11,(referral),glamour.hu,referral,1,1,hotel_2
+759,2024-10-11,(referral),google,referral,1,1,hotel_2
+760,2024-10-11,(referral),source_15,referral,1,1,hotel_2
+761,2024-10-11,(referral),wellcard.at,referral,1,1,hotel_2
+762,2024-10-11,AT | PERF | Brand,bing,cpc,1,1,hotel_2
+763,2024-10-11,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+764,2024-10-11,DE | GSN | PERF I Lokáció,google,cpc,1,1,hotel_2
+765,2024-10-11,campaign_3,hirlevel,ct,1,1,hotel_2
+766,2024-10-11,campaign_10,bing,cpc,1,1,hotel_2
+767,2024-10-11,hirlevel_c2,hirlevel,ct,1,1,hotel_2
+768,2024-10-11,loyalty-email,loyalty,email,1,1,hotel_2
+769,2024-10-11,(organic),google,organic,65,68,hotel_2
+770,2024-10-12,HU | PERF | Brand,bing,cpc,5,6,hotel_2
+771,2024-10-12,(organic),google,organic,61,64,hotel_2
+772,2024-10-12,HU | GSN | PERF I Brand,google,cpc,46,54,hotel_2
+773,2024-10-12,(direct),(direct),(none),45,47,hotel_2
+774,2024-10-12,HU | pMAX | PERF I Brand,google,cpc,23,23,hotel_2
+775,2024-10-12,HU | GSN | PERF I Brand 2,google,cpc,12,17,hotel_2
+776,2024-10-12,(not set),google,cpc,12,12,hotel_2
+777,2024-10-12,(not set),(not set),(not set),9,11,hotel_2
+778,2024-10-12,HU | GSN | PERF I Lokáció,google,cpc,8,8,hotel_2
+779,2024-10-12,(referral),facebook,referral,7,7,hotel_2
+780,2024-10-12,(organic),bing,organic,5,6,hotel_2
+781,2024-10-12,(organic),google,cpc,111,124,hotel_2
+782,2024-10-12,hirlevel_c3,hirlevel,ct,6,6,hotel_2
+783,2024-10-12,AT | GSN | PERF I Brand,google,cpc,4,5,hotel_2
+784,2024-10-12,campaign_19,facebook,cpc,5,5,hotel_2
+785,2024-10-12,campaign_18,facebook,cpc,4,4,hotel_2
+786,2024-10-12,campaign_17,facebook,cpc,4,4,hotel_2
+787,2024-10-12,(referral),glamour.hu,referral,1,2,hotel_2
+788,2024-10-12,(referral),instagram,referral,2,2,hotel_2
+789,2024-10-12,(referral),facebook,referral,2,2,hotel_2
+790,2024-10-12,AT | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+791,2024-10-12,CZ | pMAX | PERF I Brand,google,cpc,2,2,hotel_2
+792,2024-10-12,campaign_23,google,cpc,2,2,hotel_2
+793,2024-10-12,hirlevel_c1,hirlevel_s1,newsletter,1,2,hotel_2
+794,2024-10-12,(organic),duckduckgo,organic,0,1,hotel_2
+795,2024-10-12,(referral),redir.d-edgeconnect.media,referral,1,1,hotel_2
+796,2024-10-12,(referral),thermengutscheine.at,referral,1,1,hotel_2
+797,2024-10-12,DE | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+798,2024-10-12,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+799,2024-10-12,campaign_13,hirlevel,ct,1,1,hotel_2
+800,2024-10-12,campaign_24,instagram,cpc,1,1,hotel_2
+801,2024-10-13,(organic),google,cpc,155,190,hotel_2
+802,2024-10-13,HU | GSN | PERF I Brand,google,cpc,78,90,hotel_2
+803,2024-10-13,(direct),(direct),(none),62,67,hotel_2
+804,2024-10-13,(organic),google,organic,58,67,hotel_2
+805,2024-10-13,(not set),google,cpc,27,29,hotel_2
+806,2024-10-13,HU | GSN | PERF I Brand 2,google,cpc,20,25,hotel_2
+807,2024-10-13,HU | pMAX | PERF I Brand,google,cpc,19,24,hotel_2
+808,2024-10-13,campaign_17,facebook,cpc,12,13,hotel_2
+809,2024-10-13,campaign_18,facebook,cpc,11,11,hotel_2
+810,2024-10-13,(not set),(not set),(not set),9,10,hotel_2
+811,2024-10-13,campaign_19,facebook,cpc,10,10,hotel_2
+812,2024-10-13,AT | pMAX Hotel | PERF I Brand,google,cpc,7,7,hotel_2
+813,2024-10-13,HU | GSN | PERF I Lokáció,google,cpc,6,6,hotel_2
+814,2024-10-13,HU | PERF | Brand,bing,cpc,6,6,hotel_2
+815,2024-10-13,hirlevel_c3,hirlevel,ct,6,6,hotel_2
+816,2024-10-13,(organic),bing,organic,4,4,hotel_2
+817,2024-10-13,(referral),facebook,referral,4,4,hotel_2
+818,2024-10-13,(referral),familypark.at,referral,2,3,hotel_2
+819,2024-10-13,(referral),emea.search.yahoo.com,referral,1,1,hotel_2
+820,2024-10-13,(referral),google,cpc,1,1,hotel_2
+821,2024-10-13,AT | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+822,2024-10-13,CZ | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+823,2024-10-13,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+824,2024-10-13,campaign_10,bing,cpc,1,1,hotel_2
+825,2024-10-13,campaign_21,google,cpc,1,1,hotel_2
+826,2024-10-13,campaign_24,instagram,cpc,1,1,hotel_2
+827,2024-10-13,campaign_23,google,cpc,1,1,hotel_2
+828,2024-10-13,hirlevel_c1,hirlevel_s1,newsletter,1,1,hotel_2
+829,2024-10-13,campaign_7,ajanlat,email,1,1,hotel_2
+830,2024-10-13,campaign_2,ajanlat,offline,1,1,hotel_2
+831,2024-10-13,proposal-by-phone,phone,offline,0,1,hotel_2
+832,2024-10-14,campaign_7,ajanlat,email,1,1,hotel_2
+833,2024-10-14,proposal-by-phone,ajanlat,offline,1,1,hotel_2
+834,2024-10-14,(organic),google,organic,33,36,hotel_2
+835,2024-10-14,HU | GSN | PERF I Brand,google,cpc,30,31,hotel_2
+836,2024-10-14,HU | pMAX | PERF I Brand,google,cpc,21,22,hotel_2
+837,2024-10-14,HU | GSN | PERF I Brand 2,google,cpc,9,13,hotel_2
+838,2024-10-14,campaign_17,facebook,cpc,11,13,hotel_2
+839,2024-10-14,(not set),google,cpc,12,12,hotel_2
+840,2024-10-14,HU | GSN | PERF I Lokáció,google,cpc,8,8,hotel_2
+841,2024-10-14,AT | GSN | PERF | Lokáció,google,cpc,4,5,hotel_2
+842,2024-10-14,AT | pMAX Hotel | PERF I Brand,google,cpc,5,5,hotel_2
+843,2024-10-14,campaign_19,facebook,cpc,5,5,hotel_2
+844,2024-10-14,hirlevel_c3,hirlevel,ct,5,5,hotel_2
+845,2024-10-14,(organic),bing,organic,4,4,hotel_2
+846,2024-10-14,(referral),facebook,referral,4,4,hotel_2
+847,2024-10-14,AT | GSN | PERF I Brand,google,cpc,4,4,hotel_2
+848,2024-10-14,feliratkozas_hu,hirlevel,ct,3,4,hotel_2
+849,2024-10-14,(not set),(not set),(not set),2,3,hotel_2
+850,2024-10-14,campaign_18,facebook,cpc,3,3,hotel_2
+851,2024-10-14,(referral),facebook,referral,2,2,hotel_2
+852,2024-10-14,HU | PERF | Brand,bing,cpc,2,2,hotel_2
+853,2024-10-14,(not set),(direct),(none),1,1,hotel_2
+854,2024-10-14,(referral),app.asana.com,referral,1,1,hotel_2
+855,2024-10-14,(referral),familypark.at,referral,1,1,hotel_2
+856,2024-10-14,(referral),redir.d-edgeconnect.media,referral,1,1,hotel_2
+857,2024-10-14,(referral),thermenhotels.at,referral,1,1,hotel_2
+858,2024-10-14,(referral),wellcard.at,referral,1,1,hotel_2
+859,2024-10-14,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+860,2024-10-14,campaign_21,google,cpc,1,1,hotel_2
+861,2024-10-14,campaign_24,instagram,cpc,1,1,hotel_2
+862,2024-10-14,campaign_23,google,cpc,1,1,hotel_2
+863,2024-10-14,feliratkozas_en,hirlevel,ct,1,1,hotel_2
+864,2024-10-14,(organic),google,cpc,87,96,hotel_2
+865,2024-10-14,(direct),(direct),(none),34,36,hotel_2
+866,2024-10-15,(organic),google,cpc,73,75,hotel_2
+867,2024-10-15,(direct),(direct),(none),28,30,hotel_2
+868,2024-10-15,(organic),google,organic,26,27,hotel_2
+869,2024-10-15,HU | GSN | PERF I Brand,google,cpc,22,26,hotel_2
+870,2024-10-15,(not set),google,cpc,15,15,hotel_2
+871,2024-10-15,HU | pMAX | PERF I Brand,google,cpc,15,15,hotel_2
+872,2024-10-15,campaign_18,facebook,cpc,13,13,hotel_2
+873,2024-10-15,HU | GSN | PERF I Brand 2,google,cpc,11,12,hotel_2
+874,2024-10-15,campaign_19,facebook,cpc,10,10,hotel_2
+875,2024-10-15,campaign_17,facebook,cpc,8,8,hotel_2
+876,2024-10-15,HU | GSN | PERF I Lokáció,google,cpc,7,7,hotel_2
+877,2024-10-15,HU | PERF | Brand,bing,cpc,5,5,hotel_2
+878,2024-10-15,(not set),(not set),(not set),1,4,hotel_2
+879,2024-10-15,(referral),redir.d-edgeconnect.media,referral,3,3,hotel_2
+880,2024-10-15,AT | GSN | PERF I Brand,google,cpc,3,3,hotel_2
+881,2024-10-15,AT | PERF | Brand,bing,cpc,3,3,hotel_2
+882,2024-10-15,(organic),bing,organic,2,2,hotel_2
+883,2024-10-15,(referral),familypark.at,referral,2,2,hotel_2
+884,2024-10-15,campaign_10,bing,cpc,2,2,hotel_2
+885,2024-10-15,campaign_23,google,cpc,2,2,hotel_2
+886,2024-10-15,hirlevel_c3,hirlevel,ct,2,2,hotel_2
+887,2024-10-15,campaign_2,ajanlat,offline,2,2,hotel_2
+888,2024-10-15,(referral),facebook,referral,1,1,hotel_2
+889,2024-10-15,(referral),thermengutscheine.at,referral,1,1,hotel_2
+890,2024-10-15,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+891,2024-10-15,AT | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+892,2024-10-15,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+893,2024-10-15,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+894,2024-10-15,campaign_3,hirlevel,ct,1,1,hotel_2
+895,2024-10-15,feliratkozas_en,hirlevel,ct,1,1,hotel_2
+896,2024-10-16,campaign_24,instagram,cpc,3,3,hotel_2
+897,2024-10-16,feliratkozas_hu,hirlevel,ct,0,1,hotel_2
+898,2024-10-16,HU | GSN | PERF I Brand,google,cpc,32,39,hotel_2
+899,2024-10-16,(direct),(direct),(none),32,33,hotel_2
+900,2024-10-16,HU | GSN | PERF I Brand 2,google,cpc,16,18,hotel_2
+901,2024-10-16,HU | pMAX | PERF I Brand,google,cpc,14,14,hotel_2
+902,2024-10-16,(not set),google,cpc,13,13,hotel_2
+903,2024-10-16,campaign_17,facebook,cpc,8,8,hotel_2
+904,2024-10-16,(referral),facebook,referral,7,7,hotel_2
+905,2024-10-16,campaign_19,facebook,cpc,7,7,hotel_2
+906,2024-10-16,AT | pMAX Hotel | PERF I Brand,google,cpc,5,6,hotel_2
+907,2024-10-16,campaign_18,facebook,cpc,5,5,hotel_2
+908,2024-10-16,AT | GSN | PERF | Lokáció,google,cpc,3,4,hotel_2
+909,2024-10-16,(referral),csodasmagyarorszag.hu,referral,3,3,hotel_2
+910,2024-10-16,(referral),facebook,referral,3,3,hotel_2
+911,2024-10-16,AT | GSN | PERF I Brand,google,cpc,3,3,hotel_2
+912,2024-10-16,HU | GSN | PERF I Lokáció,google,cpc,3,3,hotel_2
+913,2024-10-16,HU | PERF | Brand,bing,cpc,2,3,hotel_2
+914,2024-10-16,(organic),google,cpc,77,83,hotel_2
+915,2024-10-16,(referral),msn,referral,1,2,hotel_2
+916,2024-10-16,(referral),redir.d-edgeconnect.media,referral,2,2,hotel_2
+917,2024-10-16,(referral),wellcard.at,referral,2,2,hotel_2
+918,2024-10-16,AT | PERF | Brand,bing,cpc,2,2,hotel_2
+919,2024-10-16,hirlevel_c3,hirlevel,ct,2,2,hotel_2
+920,2024-10-16,(not set),(not set),(not set),0,1,hotel_2
+921,2024-10-16,(referral),google,cpc,1,1,hotel_2
+922,2024-10-16,(referral),internetbank.otpbank.hu,referral,1,1,hotel_2
+923,2024-10-16,(referral),facebook,referral,1,1,hotel_2
+924,2024-10-16,(referral),thermenhotels.at,referral,1,1,hotel_2
+925,2024-10-16,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+926,2024-10-16,DE | GSN | PERF I Brand,google,cpc,1,1,hotel_2
+927,2024-10-16,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+928,2024-10-16,campaign_3,hirlevel,ct,1,1,hotel_2
+929,2024-10-16,campaign_10,bing,cpc,1,1,hotel_2
+930,2024-10-16,(organic),google,organic,38,43,hotel_2
+931,2024-10-17,(referral),familypark.at,referral,3,3,hotel_2
+932,2024-10-17,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+933,2024-10-17,(organic),google,organic,27,29,hotel_2
+934,2024-10-17,HU | GSN | PERF I Brand,google,cpc,22,26,hotel_2
+935,2024-10-17,(not set),google,cpc,17,18,hotel_2
+936,2024-10-17,HU | pMAX | PERF I Brand,google,cpc,12,13,hotel_2
+937,2024-10-17,campaign_18,facebook,cpc,11,12,hotel_2
+938,2024-10-17,campaign_24,instagram,cpc,10,10,hotel_2
+939,2024-10-17,AT | pMAX Hotel | PERF I Brand,google,cpc,7,9,hotel_2
+940,2024-10-17,HU | GSN | PERF I Brand 2,google,cpc,8,8,hotel_2
+941,2024-10-17,hirlevel_c2,hirlevel,ct,8,8,hotel_2
+942,2024-10-17,HU | GSN | PERF I Lokáció,google,cpc,5,7,hotel_2
+943,2024-10-17,campaign_17,facebook,cpc,6,6,hotel_2
+944,2024-10-17,(not set),(not set),(not set),2,5,hotel_2
+945,2024-10-17,campaign_19,facebook,cpc,5,5,hotel_2
+946,2024-10-17,(organic),bing,organic,3,3,hotel_2
+947,2024-10-17,(organic),google,cpc,66,71,hotel_2
+948,2024-10-17,(referral),facebook,referral,3,3,hotel_2
+949,2024-10-17,hirlevel_c3,hirlevel,ct,3,3,hotel_2
+950,2024-10-17,(referral),csodasmagyarorszag.hu,referral,2,2,hotel_2
+951,2024-10-17,(referral),facebook,referral,2,2,hotel_2
+952,2024-10-17,(referral),redir.d-edgeconnect.media,referral,2,2,hotel_2
+953,2024-10-17,(referral),source_15,referral,2,2,hotel_2
+954,2024-10-17,AT | GSN | PERF I Brand,google,cpc,2,2,hotel_2
+955,2024-10-17,campaign_10,bing,cpc,2,2,hotel_2
+956,2024-10-17,HU | GSN | Brand 2024,bing,cpc,2,2,hotel_2
+957,2024-10-17,HU | PERF | Brand,bing,cpc,2,2,hotel_2
+958,2024-10-17,(referral),google,referral,1,1,hotel_2
+959,2024-10-17,(referral),google,cpc,1,1,hotel_2
+960,2024-10-17,(referral),hotels.hotelbox.cc,referral,1,1,hotel_2
+961,2024-10-17,(referral),source_16,referral,1,1,hotel_2
+962,2024-10-17,(referral),thermengutscheine.at,referral,1,1,hotel_2
+963,2024-10-17,CZ | pMAX | PERF I Brand,google,cpc,1,1,hotel_2
+964,2024-10-17,(direct),(direct),(none),52,58,hotel_2
+965,2024-10-18,(organic),google,cpc,51,56,hotel_2
+966,2024-10-18,(direct),(direct),(none),30,31,hotel_2
+967,2024-10-18,(organic),google,organic,25,26,hotel_2
+968,2024-10-18,HU | GSN | PERF I Brand,google,cpc,22,25,hotel_2
+969,2024-10-18,HU | pMAX | PERF I Brand,google,cpc,24,25,hotel_2
+970,2024-10-18,(not set),google,cpc,14,14,hotel_2
+971,2024-10-18,campaign_18,facebook,cpc,12,13,hotel_2
+972,2024-10-18,HU | GSN | PERF I Brand 2,google,cpc,8,9,hotel_2
+973,2024-10-18,(referral),facebook,referral,7,7,hotel_2
+974,2024-10-18,AT | GSN | PERF I Brand,google,cpc,7,7,hotel_2
+975,2024-10-18,HU | GSN | PERF I Lokáció,google,cpc,7,7,hotel_2
+976,2024-10-18,campaign_17,facebook,cpc,6,6,hotel_2
+977,2024-10-18,(not set),(not set),(not set),3,5,hotel_2
+978,2024-10-18,campaign_19,facebook,cpc,4,4,hotel_2
+979,2024-10-18,(referral),facebook,referral,3,3,hotel_2
+980,2024-10-18,CZ | pMAX | PERF I Brand,google,cpc,2,3,hotel_2
+981,2024-10-18,HU | PERF | Brand,bing,cpc,3,3,hotel_2
+982,2024-10-18,campaign_24,instagram,cpc,3,3,hotel_2
+983,2024-10-18,(referral),csodasmagyarorszag.hu,referral,2,2,hotel_2
+984,2024-10-18,(referral),facebook,referral,2,2,hotel_2
+985,2024-10-18,AT | PERF | Brand,bing,cpc,2,2,hotel_2
+986,2024-10-18,AT | pMAX Hotel | PERF I Brand,google,cpc,2,2,hotel_2
+987,2024-10-18,campaign_10,bing,cpc,2,2,hotel_2
+988,2024-10-18,(not set),(direct),(none),1,1,hotel_2
+989,2024-10-18,(organic),bing,organic,1,1,hotel_2
+990,2024-10-18,(referral),thermenhotels.at,referral,1,1,hotel_2
+991,2024-10-18,AT | GSN | PERF | Lokáció,google,cpc,1,1,hotel_2
+992,2024-10-18,DE | pMAX Hotel | PERF I Brand,google,cpc,1,1,hotel_2
+993,2024-10-18,campaign_13,hirlevel,ct,1,1,hotel_2
+994,2024-10-18,hirlevel_c3,hirlevel,ct,1,1,hotel_2
+995,2024-10-18,proposal-by-phone,phone,offline,1,1,hotel_2
