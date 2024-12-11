@@ -26,34 +26,45 @@
 ## Longer description of tables:
 
 1. booking_data table
+
 This table contains the final price breakdown of the completed bookings, showing the room rate and the value of extras and discounts.
 
 2. daily_occupancy table
+
 This table records the occupancy rate for each day, which shows the occupancy rate of a given hotel as a percentage up to 2025-08-31.
 
 3. daily_ppc_budget table
+
 This table shows the daily ad budget spent in Google, Microsoft and META advertising systems.
 
 4. datepicker_daily_visitors table
+
 This table shows the number of daily visitors to the Datepicker.
 
 5. search_log table
+
 This table contains the data of the searches performed on this website.
 
 6. search_log_room table
+
 This table stores the details of the rooms selected during a search.
 
 7. search_log_room_offer board
+
 This table contains details of offers related to searches, such as prices for rooms offered.
 
 8. search_log_room_child table
+
 This table shows the age of the children in the room and whether a baby cot has been requested.
 
 9. search_log_session table
+
 This table stores data related to search sessions, such as user sources and campaign information.
 
 10. website_daily_users table
+
 This table records the number of users of the hotel's website from which UTM source/medium and campaign.
 
 11. upsell_data table
+
 This table contains the list of extra services/products included in the bookings made.
