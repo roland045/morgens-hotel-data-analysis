@@ -38,11 +38,11 @@ The analysis was originally made for the in-house competition of the [Data36.com
 
 *Dataset:* 
 
-11 tables per hotel with data collected between 18.09.2024 and 18.10.2024:
-- 1 table with data on website traffic
-- 1 table with data on marketing spending
-- 8 tables with search and booking data
-- 1 table with occupancy data 
+*11 tables per hotel with data collected between 18.09.2024 and 18.10.2024:*
+- *1 table with data on website traffic*
+- *1 table with data on marketing spending*
+- *8 tables with search and booking data*
+- *1 table with occupancy data*
 
 The description of the dataset variables is available [here](https://github.com/roland045/morgens-hotel-data-analysis/tree/main/data-raw).
 
@@ -50,7 +50,15 @@ The description of the dataset variables is available [here](https://github.com/
 
 In the analysis, I have **identified and communicated the key factors** that are critical in guest behaviour at room booking. I communicated the **recommendations for changes** that would help to optimize the marketing campaigns and to increase the profitability:
 
-- 
+- When not to advertise, as the rooms will fill up automatically in high demand periods
+- When to advertise - Between 10 and 50 days in lead time
+- Meta is an informing and demand generator site, where the PPC costs can be much higher
+- However, the optimization of Meta and Microsoft advertisements are recommended
+- On the other side, Google is a conventional transmission interface, so the ppc/conversion spend will be lower due to its nature - which is represented in the data
+- Simplify room recommendations to customers and visitors
+  - According to their purchase behaviour analysis (for example, prefer and suggest the more expensive rooms for guests with children)
+- Improve conversion rates for families with children
+- Improve upsell offers for guests with children, particularly in Hotel 2 and 3
 - Presentation of results to stakeholders
 
 ### Origanized by
@@ -87,7 +95,10 @@ In the analysis, I have **identified and communicated the key factors** that are
 **EDA**
 
 - Providing basic statistical metrics
-- 
+- Providing important business insights, supported by statistical testing
+- Identifying and segmenting customer groups
+- Defining business-impacting outliers and groups
+- Proposals for advertising platforms and marketing costs and time periods
 
 **Presentation of results**
 
