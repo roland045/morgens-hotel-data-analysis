@@ -50,6 +50,8 @@ The description of the dataset variables is available [here](https://github.com/
 
 In the analysis, I have **identified and communicated the key factors** that are critical in guest behaviour at room booking. I communicated the **recommendations for changes** that would help to optimize the marketing campaigns and to increase the profitability:
 
+**Main proposals:**
+
 - When not to advertise, as the rooms will fill up automatically in high demand periods
 - When to advertise - Between 10 and 50 days in lead time
 - Meta is an informing and demand generator site, where the PPC costs can be much higher
