@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on MORGEN's hotel management system database
+# Exploratory Data Analysis on MORGENS's hotel management system database
 
 <p align="center">
   <img src="https://www.xongolab.com/wp-content/uploads/2023/09/hotel-management-software-development.png" width="300"/>
